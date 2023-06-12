@@ -5,4 +5,5 @@ In this mission, our objective is to assess the viability of utilizing French pu
 # Context
 According to multiple studies, vegan and vegetarian diets have been associated with a potential risk of nutrient deficiencies. To ensure a successful diet, individuals following vegan or vegetarian lifestyles should carefully monitor their daily food intake and ensure they meet the requirements for essential nutrients. 
 
-![image](https://github.com/Yassaadi/nutrientss-public-health/assets/106546639/cbd4b859-66d0-4a75-91a8-99ff7ba65aa3)
+<img width="436" alt="image" src="https://github.com/Yassaadi/nutrientss-public-health/assets/106546639/5aa9e7d7-9f85-4305-9076-43aa9f2f5738">
+
